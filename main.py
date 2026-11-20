@@ -82,11 +82,11 @@ NEWS = {
         },
         {
             "kicker": "INDIA · CYCLONE AKVAN",
-            "headline": ["300,000 EVACUATED", "AS CYCLONE NEARS"],
+            "headline": ["370,000 EVACUATED", "AS AKVAN HITS INDIA"],
             "body": [
-                "423 RESCUE TEAMS DEPLOYED IN",
-                "ODISHA AND ANDHRA PRADESH AS",
-                "AKVAN POUNDS THE COAST.",
+                "CYCLONE CROSSES THE COAST NEAR",
+                "GOPALPUR, ODISHA; 423 RESCUE TEAMS",
+                "DEPLOYED, NO MAJOR DAMAGE SO FAR.",
             ],
             "icon": "cyclone",
         },
@@ -96,7 +96,7 @@ NEWS = {
         ["GAZA - ISRAEL BEGINS GROUND", "OPERATION IN CENTRAL GAZA"],
     ],
     "ticker": [
-        "ALSO TODAY: EUROPE READY FOR TALKS WITH RUSSIA ON UKRAINE WAR",
+        "ALSO TODAY: HOUTHI MISSILE HITS RIYADH WEALTH FUND TOWER",
         "HAYABUSA2 ABORTS LANDING · SEOUL COURT CLEARS EX-PM HAN · FIJI DROUGHT DISASTER",
     ],
     "footer": "FRIDAY 20 NOVEMBER 2026 - THE DAY'S WORLD NEWS IN ONE IMAGE",
